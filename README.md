@@ -4,6 +4,6 @@ Hello this is a test script for lua i know it's very old idea but i didn't think
 ---
 
 # CLI:
-lua Windows.lua
-or
-lua Linux.lua
+*lua Windows.lua
+
+*lua Linux.lua
