@@ -4,6 +4,10 @@ Hello this is a test script for lua i know it's very old idea but i didn't think
 ---
 
 # CLI:
-*lua Windows.lua
+for windows users
+lua Windows.lua
 
-*lua Linux.lua
+for linux users (i didn't test it)
+lua Linux.lua
+
+please report any bugs
